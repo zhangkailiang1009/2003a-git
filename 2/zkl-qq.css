@@ -1,0 +1,430 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.shang{
+    width: 1247px;
+    height: 80px;
+    margin: 0 auto;
+    position: relative;
+}
+.t1{
+    width: 167px;
+    height: 80px;
+    float: left;
+    margin-top: 10px;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.a1:hover{
+    color: white;
+}
+.li1:hover{
+    display: block;
+    text-align: center;
+    height: 56px;
+    background: #31c27c;
+}
+.li1{
+    float: left;
+    width: 65px;
+    height: 19px;
+    margin-left: 25px;
+    padding-top: 24px;
+}
+.yin{
+    width: 460px;
+    height: 80px;
+    float: left;
+}
+.i1{
+    width: 219px;
+    height: 38px;
+    color: #c9c9c9;
+    margin-top: 16px;
+    margin-left: 80px;
+    float: left;
+    border-radius: 5px 5px 5px 5px;
+}
+.si{
+    margin-top: 22px;
+    margin-left: 24px;
+    float: left;
+}
+.s1{
+    width: 120px;
+    height: 37px;
+    vertical-align: 0 auto;
+    line-height: 35px;
+    text-align: center;
+    border-radius: 4px 4px 4px 4px;
+    color: white;
+    font-size: 14px;
+    background: #31c27c;
+    margin-left: 20px;
+    margin-top: 16px;
+    float: left;;
+}
+.s2{
+    width: 85px;
+    height: 37px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 16px;
+    font-size: 14px;
+    line-height: 35px;
+    text-align: center;
+    border:1px solid #c9c9c9;
+}
+.shou{
+    width: 718px;
+    height: 54px;
+    margin: 0 auto;
+}
+.li2{
+    float: left;
+}
+.a2{
+    line-height:50px;
+    margin-left: 35px;
+    font-size: 14px;
+}
+.a4{
+    line-height:50px;
+    margin-left: 235px;
+    font-size: 14px;
+}
+.a4:hover{
+    color: #31c27c;
+}
+.a2:hover{
+    color: #31c27c;
+}
+.ge{
+    width: 1295px;
+    height: 532px;
+    background: #f3f3f3;
+    margin: 0 auto;
+}
+.pa{
+    font-size: 28px;
+    text-align: center;
+    padding-top:40px;
+    font-weight: bold;
+}
+.main1{
+    width: 586px;
+    height: 107px;
+    float: left;
+    margin-left: 350px;
+}
+.q{
+    width: 186px;
+    height: 134px;
+    background: white;
+    float: left;
+    margin-top: 32px;
+}
+.img1{
+    width: 100px;
+    height: 29px;
+    padding-left: 36px;
+    padding-top: 16px;
+}
+.qian{
+    color: #a6a6a6;
+    font-size: 15px;
+    text-align: center;
+}
+.ke{
+    width: 132px;
+    height: 26px;
+    background: #31c27c;
+    border-radius: 10px 10px 10px 10px;
+    text-align: center;
+    margin-left: 26px;
+    margin-top: 16px;
+    color: white;
+}
+.wrapper{
+    width: 1247px;
+    height: 367px;
+    margin-left: 25px;
+    background: white;
+    float: left;
+}
+.ta{
+    width: 228px;
+    height: 367px;
+    float: left;
+    background: white;
+    padding-left: 20px;
+}
+.img2{
+    width: 228px;
+    height: 231px;
+}
+.pb{
+    font-size: 14px;
+}
+.pc{
+    color: #999999;
+    font-size: 13px;
+    padding-top:8px; 
+}
+.bo{
+    width: 1295px;
+    height: 561px;
+    background: #f3f3f3;
+    margin: 0 auto;
+    position: relative;
+}
+.li3{
+    margin-left:18px; 
+    float: left;
+}
+.u1{
+    margin-left:382px; 
+}
+.fang{
+    width: 1247px;
+    height: 372px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 25px;
+}
+.maina{
+    width: 1247px;
+    height: 100px;
+    float: left;
+    margin-top: 10px;
+}
+.mainb{
+    width: 391px;
+    height: 96px;
+    float: left;
+    margin-left:20px; 
+    border-bottom: 1px solid #f2f2f2;
+}
+.img3{
+    float: left;
+}
+.p1{
+    font-size: 13px;
+    margin-top: 25px;
+}
+.p2{
+    font-size: 13px;
+    margin-top: 5px;
+    color: #999999;
+}
+.p3{
+    font-size: 13px;
+    margin-left:340px;
+    color: #999999;
+}
+.jing{
+    width: 1290px;
+    height: 417px;
+    margin:0 auto;
+    background: #f5f5f5;
+}
+.t2{
+    width: 1290px;
+    height: 237px;
+    margin-top: 25px;
+}
+.tb{
+    width: 592px;
+    height: 237px;
+    float: left;
+    margin-left: 40px;
+}
+.tc{
+    width: 592px;
+    height: 237px;
+    float: left;
+    margin-left: 20px;
+}
+.img4{
+    width: 592px;
+    height: 300px;
+}
+.die{
+    width: 1290px;
+    height: 777px;
+    margin: 0 auto;
+    background: #f3f3f3;
+}
+.miao{
+    width: 1247px;
+    height: 285px;
+    float: left;
+}
+.di{
+    width: 228px;
+    height: 285px;
+    float: left;
+    margin-left: 20px;
+}
+.img5{
+    width: 228px;
+    height: 227px;
+}
+.pd{
+    font-size: 13px;
+    margin-top: 4px;
+}
+.pe{
+    font-size: 13px;
+    color: #999999;
+    margin-top: 4px;
+}
+.pai{
+    width: 1290px;
+    background: #f3f3f3;
+    height: 664px;
+    margin: 0 auto;
+}
+.dian{
+    width: 225px;
+    height: 501px;
+    margin-top: 20px;
+    float: left;
+    margin-left: 30px;
+}
+.mv{
+    width: 1290px;
+    height: 659px;
+    margin: 0 auto;
+    background: #f3f3f3;
+}
+.xian{
+    width: 1200px;
+    height: 446px;
+    float: left;
+}
+.main2{
+    width: 225px;
+    height: 229px;
+    float: left;
+    margin-left: 15px;
+}
+.img6{
+    width: 225px;
+    height: 126px;
+    float: left;
+}
+.xia{
+    width: 1292px;
+    height: 592px;
+    background: #333333;
+    margin: 0 auto;
+}
+.zai{
+    width: 347px;
+    height: 351px;
+    margin-top: 78px;
+    margin-left: 55px;
+    float: left;
+}
+.p4{
+    font-size: 13px;
+    color: #999999;
+}
+.img7{
+ margin-top: 54px;   
+ width: 348px;
+ height: 60px;
+}
+.img8{
+    margin-top: 54px;   
+    width: 348px;
+    height: 60px;
+   }
+.li4{
+    margin-top: 20px;
+    float: left;
+    font-size: 16px;
+    margin-left: 25px;
+    color: #999999;
+}
+.ul1{
+    list-style: none;
+}
+.p5{
+    margin-top: 86px;
+    margin-left: 25px;
+    color: #999999;
+}
+.p6{
+    font-size: 13px;
+    margin-left: 20px;
+    color: #999999;
+}
+.qier{
+    width: 282px;
+    height: 126px;
+    float: left;
+    margin-top: 38px;
+}
+.li5{
+    margin-top: 20px;
+    float: left;
+    font-size: 16px;
+    margin-left: 10px;
+    color: #999999;
+}
+.ul2{
+    list-style: none;
+}
+.guan{
+    width: 740px;
+    height: 82px;
+    
+    font-size: 14px;
+    color: #999999;
+    margin: 0 auto;
+    float: left;
+    padding-top: 85px;
+    margin-left:330px; 
+}
+.p8{
+    float: left;
+}
+.p7{
+    float: left;
+    font-size: 13px;
+    margin-top: 10px;
+    margin-left: 180px;
+}
+.sou{
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    top: 29px;
+    left: 1000px;
+}
+.bofang{
+    width: 123px;
+    height: 38px;
+    position: absolute;
+    top: 750px;
+    left: 160px;
+}
+.qiang{
+    width: 38px;
+    height: 14px;
+    position: absolute;
+    top: 10px;
+    left: 540px;;
+}
+.img9{
+    width: 25px;
+    height: 12px;
+}
